@@ -1,0 +1,21 @@
+{
+  "name": "@borekb/vscode-theme-darker-plus",
+  "displayName": "vscode-theme-darker-plus",
+  "description": "Slightly darker Dark+ theme",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darker+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darker-plus-color-theme.json"
+      }
+    ]
+  }
+}
