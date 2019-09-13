@@ -1,8 +1,16 @@
 {
-  "name": "@borekb/vscode-theme-darker-plus",
-  "displayName": "vscode-theme-darker-plus",
-  "description": "Slightly darker Dark+ theme",
+  "name": "darker-plus-theme",
+  "publisher": "borekb",
+  "displayName": "Darker+ theme",
+  "description": "The default Dark+ theme with darker backgrounds",
   "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/borekb/darker-plus-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattbierner/darker-plus-theme/issues"
+  },
   "engines": {
     "vscode": "^1.38.0"
   },
