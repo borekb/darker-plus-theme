@@ -3,6 +3,7 @@
   "publisher": "borekb",
   "displayName": "Darker+ theme",
   "description": "The default Dark+ theme with darker backgrounds",
+  "icon": "icons/darker-plus.png",
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
