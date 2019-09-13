@@ -1,0 +1,30 @@
+{
+  "name": "darker-plus-theme",
+  "publisher": "borekb",
+  "displayName": "Darker+ theme",
+  "description": "The default Dark+ theme with darker backgrounds",
+  "icon": "icons/darker-plus.png",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/borekb/darker-plus-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mattbierner/darker-plus-theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darker+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/darker-plus-color-theme.json"
+      }
+    ]
+  }
+}
