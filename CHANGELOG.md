@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "vscode-theme-darker-plus" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## 1.0.0 – 13 Sep 2019
 
 - Initial release
+- Dark+ theme added
+- README created
+- Extension published
